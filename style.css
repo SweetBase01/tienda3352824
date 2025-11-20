@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+#container{
+    width: 80%;
+    margin : 0px auto;
+    box-shadow: 0px 0px 10px rgb(243, 81, 108);
+    /* border: 1px solid pink; */
+
+}
